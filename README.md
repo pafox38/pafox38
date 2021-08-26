@@ -1,5 +1,5 @@
 :robot: Hi, I’m @pafox38
-- I am an aspiring data scientist with a background in geology :hammer_and_pick: and climatology :earth_americas:.
+- I am an aspiring data scientist with a background in geology :hammer_and_pick: and climatology :earth_americas:
 
 [![linkedin](https://user-images.githubusercontent.com/89264686/130872348-d3c45d34-b628-4245-82f8-d60a4ed8852f.jpg)][1]
 
